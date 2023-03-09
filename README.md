@@ -1,4 +1,4 @@
-# BMS-AHU
+# HTML-BMS-AHU
 HTML page as BMS-AHU
 interacting HTML code act as building management system (BMS) 
 to view and control air handling unit (AHU)  
